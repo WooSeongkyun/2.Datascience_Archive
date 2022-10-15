@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "7c3092a9e5aef986",
+    "type": "split",
+    "children": [
+      {
+        "id": "433e5476f6bec572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06fc217fc7e01b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전공 예상질문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d312fa26036432d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c3a38c1645f370c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ced2f61b0b3e388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ba47c44f430205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b4f4ee14d39503c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "232bf35ae61ac098",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0897fa8787b9143",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14a01929dccbc51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53286c34792ebf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ab38d0bd82f3cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94893d60bdaa8b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dcac03df94489ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d312fa26036432d7",
+  "lastOpenFiles": [
+    "전공 예상질문.md"
+  ]
+}
