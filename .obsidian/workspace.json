@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "433e5476f6bec572",
+        "id": "a71a07289ead570d",
         "type": "tabs",
         "children": [
           {
-            "id": "06fc217fc7e01b62",
+            "id": "c33d6c5f121ff3e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전공 예상질문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d312fa26036432d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,8 +131,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d312fa26036432d7",
+  "active": "c33d6c5f121ff3e3",
   "lastOpenFiles": [
-    "전공 예상질문.md"
+    "전공 예상질문.md",
+    "README.md"
   ]
 }
